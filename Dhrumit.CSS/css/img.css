@@ -1,0 +1,54 @@
+.center_section{
+    height: 400px;
+    width: 800px;
+    border: 1px solid black;
+    margin: auto;
+}
+.img_section{   
+    height:400px ;
+    width: 550px;
+    border: solid black 1px;
+    float: left;
+    text-align: center;
+}
+.list_section{
+    height: 60px;
+    width: 242px;
+    border: solid 0px ;
+    float: left; 
+    margin: auto;
+    
+}
+.menu{
+    height: 60px;
+    width: 235px;
+    border: solid black 3px;
+    float: left;
+    text-align: center;
+    margin: auto;
+    border-radius: 10%;
+}
+.left_section{
+    height: 60px;
+    width: 90px;
+    border: solid black 0px;
+    float: left;
+}
+.right_section{
+    height: 60px;
+    width: 142px;
+    border: solid black 0px;
+    float: left;
+}
+h4{
+    text-align: center;
+    font-family:  system-ui;
+    margin-top: auto;
+    
+}
+p{
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: auto;
+
+}

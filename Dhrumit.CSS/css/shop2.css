@@ -1,0 +1,67 @@
+.container_soft{
+    height: 300px;
+    width: 300px;
+    border: solid 3px yellow;
+    text-align: center;
+    float: left;
+    
+}
+.img{
+    text-align: center;
+    padding-top: 20px;
+}
+h1{
+    font-size: 4    0px;
+    color: yellow;
+}
+.container_rc{
+    height: 350px;
+    width: 350px;
+    border: solid 3px yellow;
+    text-align: center;
+    float: right;
+    
+}
+.img{
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+h1{
+    font-size: 50px;
+    color: yellow;
+}
+.container_plane{
+    height: 350px;
+    width: 350px;
+    border: solid 3px yellow;
+    text-align: center;
+    margin: auto;
+    
+}
+.img{
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+h1{
+    font-size: 60px;
+    color: yellow;
+}
+.container_plane {
+    height: 350px;
+    width: 350px;
+    border: solid 3px yellow;
+    text-align: center;
+    margin: auto;
+    padding-top: ;
+}
+.img{
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+h1{
+    font-size: 60px;
+    color: yellow;
+}

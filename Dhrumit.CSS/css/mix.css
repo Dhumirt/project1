@@ -1,0 +1,48 @@
+.center_section{
+    height: 600px;
+    width: 1200px;
+    border: solid 0px black;
+    margin: auto;
+    background-color: cornsilk;
+
+}
+.mainpage_section{
+    height: 600px;
+    width: 800px;
+    border: 0px solid blue;
+    float: left;
+
+}
+.list_section{
+    height: 100px;
+    width: 350px;
+    border: solid 0px black;
+    float: left;
+    text-align: center;
+    
+}
+.menu{
+    height: 100px;
+    width: 298px;
+    border: solid 0px black;
+    float: left;
+   border-radius: 5%;
+}
+.left_section{
+    height: 100px;
+    width: 100px;
+    border: solid 0px black;
+    float: left;
+}
+.right_section{
+    height: 100;
+    width: 194px;
+    border: solid 0px black;
+    float: left;
+}
+.href{
+    height: 50px;
+    width: 50px ;
+}
+
+

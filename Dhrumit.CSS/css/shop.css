@@ -1,0 +1,156 @@
+.header{
+    height: 100px;
+    width: 1200px;
+    border: solid 0px black;
+
+    margin: auto;
+}
+.logo{
+   padding: auto;
+    float: left;
+}
+.menu{
+    float: right;
+}
+.ul_c{
+    list-style: none;
+}
+.li_c{
+    display: inline-block;
+    border: rgb(177, 86, 22) solid 3px;
+    background-color: rgb(216, 214, 100);
+  font-size: 30px;
+  border-radius: 25%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo_name{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:  rgb(236, 233, 20);
+   margin-bottom: 80px;
+   margin-left: 50px;
+   text-align: center;
+   float: right;
+}
+hr{
+    height: 3px;
+    width: 1200px;
+    background-color: rgb(236, 233, 20);
+    padding: bottom 50px; ;
+}
+img{
+    float: right;
+    margin-left: 20px;
+}
+/* center section  */
+
+.center_section{
+    height: 400px;
+    width: 1200px;
+    border:  solid 0px rgb(236, 233, 20);
+    text-align: center;
+    
+    
+    
+
+}
+.left_center{
+    height: 400px;
+    width: 400px;
+    border: solid 0px black;
+    float: left;
+    text-align: center;
+}
+.right_center{
+    height: 400px;
+    width: 796px;
+    border: solid 0px rgb(0, 0, 0);
+    float: left;
+}
+.s_p{
+    padding-left: 226px;
+    font-family: Franklin Gothic Demi;
+    font-style: italic;
+    color: yellow;
+    
+}
+.p_p{
+    font-family: Franklin Gothic Demi;
+    color: yellow;  
+    font-size: 20px;
+    text-align: left;
+}
+.view_more{
+    font-size: 25px;
+    background-color: chocolate;
+    border: solid 2px yellow;
+    border-radius: 30%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.container_soft{
+    height: 350px;
+    width: 350px;
+    border: solid 3px yellow;
+    text-align: center;
+    float: left;
+    
+}
+.img{
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+h1{
+    font-size: 50px;
+    color: yellow;
+}
+
+.container_rc{
+    height: 350px;
+    width: 350px;
+    border: solid 3px yellow;
+    text-align: center;
+    float: right;
+    
+}
+.img{
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+h1{
+    font-size: 50px;
+    color: yellow;
+}
+.container_plane{
+    height: 350px;
+    width: 350px;
+    border: solid 3px yellow;
+    text-align: center;
+    margin: auto;
+    
+}
+.img{
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+h1{
+    font-size: 60px;
+    color: yellow;
+}
+

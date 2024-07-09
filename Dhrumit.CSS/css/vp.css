@@ -1,0 +1,60 @@
+.center_section{
+    border: solid 0px black;
+    height: 600px;
+    width: 1200px;
+    
+    margin: auto;
+
+}
+.video_section{
+    border: solid 0px black;
+    height: 600px;
+    width: 800px;
+    float: left;
+    border-radius: 200px;
+}
+.list_section{
+    height: 100px;
+    width: 396px;
+    border: solid 0px black;
+    float: left;
+}
+.menu{
+    height: 100px;
+    width: 350px;
+   
+    margin: 1px;
+    background-color:aqua ;
+    border-radius: 20px;
+    
+}
+
+.left_section{
+    height: 97px;
+    width: 100px;
+    border: solid 0px black;
+    float: left;
+    text-align: center;
+    padding-top: 3px;
+
+}
+.right_section{
+    height: 100px;
+    width: 236px;
+    border: solid 0px black;
+    float: left;
+    padding-left: 10px;
+}
+h3{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -8PX;
+}
+P{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -2PX;
+    font-size: 11PX;
+    margin-top: -12px;
+    margin-bottom: 5px;
+}
